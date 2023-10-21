@@ -358,14 +358,13 @@ button:focus:not(:focus-visible) {
 
 }
 .experience__section::after{
-    /* background-image: url(../images/car-girl.gif);
+    background-image: url(../images/car-girl.gif);
     content: '';
     top: 150px;
     right: 0; 
     background-position: right;
     background-size: auto;
-    background-repeat: no-repeat;*/
-    background-color: #fff;
+    background-repeat: no-repeat;
     height: 100%;
     width: 100%;
     position: absolute;
